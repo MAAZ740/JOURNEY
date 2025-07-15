@@ -1,0 +1,3 @@
+# HALF ADDER - Work Log
+**Date:** July 9, 2025  
+Started this part of the project...
