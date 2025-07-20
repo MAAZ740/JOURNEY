@@ -87,7 +87,7 @@ int main(int argc, char** argv, char** env) {
 }
 ```
 
-📸 ![Testbench](images/testbench.png)
+📸 ![Testbench](https://github.com/MAAZ740/JOURNEY/blob/dc165c3a47808099b8f74fab163cd5b490cd9b10/HALF%20ADDER/tb_half_adder.v.png)
 
 ---
 
