@@ -40,7 +40,7 @@ module half_adder(A, B, Carry, Sum);
 endmodule
 ```
 
-📸 ![Half Adder Code](https://raw.githubusercontent.com/maazadil/half_adder_project/main/images/code.png)
+📸 ![Half Adder Code](https://github.com/MAAZ740/JOURNEY/blob/4709539381940c28312269a55ec2901f51ee3b69/HALF%20ADDER/half_adder.v.jpeg)
 
 ---
 
