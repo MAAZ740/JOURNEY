@@ -123,7 +123,7 @@ gtkwave wave.vcd
 - GTKWave GUI opens
 - Check transitions for A, B, Sum, and Carry
 
-📸 ![GTKWave](images/waveform.png)
+📸 ![GTKWave](https://github.com/MAAZ740/JOURNEY/blob/cfb6048360326311f09ade7f3be6e524afa19c0c/HALF%20ADDER/gtkwave.png)
 
 ---
 
