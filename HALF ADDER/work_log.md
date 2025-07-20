@@ -108,7 +108,7 @@ sudo apt install build-essential
 - Typo: `top>Sum` → corrected to `top->Sum`
 - Missed `endmodule` in Verilog
 
-📸 ![Compile Terminal](images/compile_error_fixed.png)
+📸 ![Compile Terminal](https://github.com/MAAZ740/JOURNEY/blob/8b8e8fa5e7df39a649f10a454f070500b4e7f973/HALF%20ADDER/error%201.png)
 
 ---
 
