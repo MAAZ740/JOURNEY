@@ -19,6 +19,7 @@ Started this part of the project...
 
 ---
 
+ 
 ## 📁 STEP 1: Create Project Folder & Verilog File
 
 ### 📌 Terminal Commands:
@@ -44,24 +45,9 @@ endmodule
 
 ---
 
-## 🧪 STEP 2: Install Verilator
 
-### 📌 Terminal Commands:
-```bash
-sudo apt update
-sudo apt install verilator
-verilator --version
-```
 
-### ⚠️ Problems Faced:
-- `Command 'verilator' not found` → Fixed using `sudo apt install verilator`
-- **Old version** installed by default → (Optional fix using PPA or manual build)
-
-📸 ![Verilator Terminal](images/verilator_installed.png)
-
----
-
-## 👨‍💻 STEP 3: Create C++ Testbench
+## 👨‍💻 STEP 2: Create C++ Testbench
 
 ### 📌 Terminal Commands:
 ```bash
